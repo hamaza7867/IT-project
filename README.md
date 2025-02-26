@@ -1,2 +1,3 @@
 # IT-project
-This is my first git lecture 
+This is my first git lecturer
+In class 401
